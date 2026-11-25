@@ -1,4 +1,5 @@
 # Widget de Escritorio (Hora, Fecha y Tiempo) para Linux Mint / MATE
+Este proyecto se distribuye bajo licencia GNU GPL v3.0. Consulta el archivo LICENSE para ver el texto completo.
 
 *Widget* flotante estilo tarjeta móvil escrito en **Python + GTK3** para escritorios Linux con composición (pensado especialmente para **Linux Mint MATE**). Muestra hora actual, fecha en español y meteorología en tiempo real mediante la API gratuita de [Open-Meteo](https://open-meteo.com/) (sin clave de API).
 
